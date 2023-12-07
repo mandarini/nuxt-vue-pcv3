@@ -23,7 +23,7 @@
         { "externalDependencies": ["vite"] }
       ],
       "options": { "cwd": "vapp3", "command": "vite build" },
-      "outputs": ["../dist/vapp3"],
+      "outputs": ["{workspaceRoot}/dist/vapp3"],
       "executor": "nx:run-commands",
       "configurations": {}
     },
@@ -45,7 +45,7 @@
         "^production",
         { "externalDependencies": ["vitest"] }
       ],
-      "outputs": ["../coverage/vapp3"],
+      "outputs": ["{workspaceRoot}/coverage/vapp3"],
       "executor": "nx:run-commands",
       "configurations": {}
     },
