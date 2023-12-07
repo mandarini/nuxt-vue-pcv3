@@ -1,0 +1,42 @@
+{
+  "root": "napp4-e2e",
+  "targets": {
+    "lint": {
+      "cache": true,
+      "options": { "cwd": "napp4-e2e", "command": "eslint ." },
+      "inputs": [
+        "default",
+        "{workspaceRoot}/.eslintrc.json",
+        "{workspaceRoot}/napp4-e2e/.eslintrc.json",
+        "{workspaceRoot}/tools/eslint-rules/**/*",
+        { "externalDependencies": ["eslint"] }
+      ],
+      "executor": "nx:run-commands",
+      "configurations": {}
+    },
+    "e2e": {
+      "options": {
+        "cwd": "napp4-e2e",
+        "command": "cypress run --config-file cypress.config.ts --e2e"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        { "externalDependencies": ["cypress"] }
+      ],
+      "outputs": [
+        "{workspaceRoot}/dist/cypress/napp4-e2e/videos",
+        "{workspaceRoot}/dist/cypress/napp4-e2e/screenshots"
+      ],
+      "executor": "nx:run-commands",
+      "configurations": {}
+    }
+  },
+  "projectType": "application",
+  "name": "napp4-e2e",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "napp4-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["napp4"]
+}

@@ -1,0 +1,54 @@
+{
+  "root": "napp4",
+  "targets": {
+    "build": {
+      "cache": true,
+      "dependsOn": ["^build"],
+      "inputs": [
+        "production",
+        "^production",
+        { "externalDependencies": ["nuxi"] }
+      ],
+      "options": { "cwd": "napp4", "command": "nuxi build" },
+      "outputs": ["{workspaceRoot}/dist/napp4"],
+      "executor": "nx:run-commands",
+      "configurations": {}
+    },
+    "serve": {
+      "options": { "cwd": "napp4", "command": "nuxi dev" },
+      "executor": "nx:run-commands",
+      "configurations": {}
+    },
+    "test": {
+      "options": { "cwd": "napp4", "command": "vitest run" },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        { "externalDependencies": ["vitest"] }
+      ],
+      "outputs": ["{workspaceRoot}/coverage/napp4"],
+      "executor": "nx:run-commands",
+      "configurations": {}
+    },
+    "lint": {
+      "cache": true,
+      "options": { "cwd": "napp4", "command": "eslint ." },
+      "inputs": [
+        "default",
+        "{workspaceRoot}/.eslintrc.json",
+        "{workspaceRoot}/napp4/.eslintrc.json",
+        "{workspaceRoot}/tools/eslint-rules/**/*",
+        { "externalDependencies": ["eslint"] }
+      ],
+      "executor": "nx:run-commands",
+      "configurations": {}
+    }
+  },
+  "name": "napp4",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "napp4/src",
+  "implicitDependencies": [],
+  "tags": []
+}

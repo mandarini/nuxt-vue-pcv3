@@ -1,0 +1,64 @@
+{
+  "root": "vapp2",
+  "targets": {
+    "lint": {
+      "cache": true,
+      "options": { "cwd": "vapp2", "command": "eslint ." },
+      "inputs": [
+        "default",
+        "{workspaceRoot}/.eslintrc.json",
+        "{workspaceRoot}/vapp2/.eslintrc.json",
+        "{workspaceRoot}/tools/eslint-rules/**/*",
+        { "externalDependencies": ["eslint"] }
+      ],
+      "executor": "nx:run-commands",
+      "configurations": {}
+    },
+    "build": {
+      "cache": true,
+      "dependsOn": ["^build"],
+      "inputs": [
+        "production",
+        "^production",
+        { "externalDependencies": ["vite"] }
+      ],
+      "options": { "cwd": "vapp2", "command": "vite build" },
+      "outputs": ["{workspaceRoot}/dist/vapp2"],
+      "executor": "nx:run-commands",
+      "configurations": {}
+    },
+    "serve": {
+      "options": { "cwd": "vapp2", "command": "vite serve" },
+      "executor": "nx:run-commands",
+      "configurations": {}
+    },
+    "preview": {
+      "options": { "cwd": "vapp2", "command": "vite preview" },
+      "executor": "nx:run-commands",
+      "configurations": {}
+    },
+    "test": {
+      "options": { "cwd": "vapp2", "command": "vitest run" },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        { "externalDependencies": ["vitest"] }
+      ],
+      "outputs": ["{workspaceRoot}/coverage/vapp2"],
+      "executor": "nx:run-commands",
+      "configurations": {}
+    },
+    "serve-static": {
+      "executor": "@nx/web:file-server",
+      "options": { "buildTarget": "build" },
+      "configurations": {}
+    }
+  },
+  "name": "vapp2",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "vapp2/src",
+  "implicitDependencies": [],
+  "tags": []
+}
