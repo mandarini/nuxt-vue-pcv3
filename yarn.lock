@@ -1563,62 +1563,62 @@
     read-package-json-fast "^3.0.0"
     which "^4.0.0"
 
-"@nrwl/cypress@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nrwl%2fcypress/-/cypress-1784.2.1-beta.0.tgz#82e14efef843819b7e68c59ff719eab0f24c0d00"
-  integrity sha512-Yp5IpeLuJHpCFuPDjIrf5A3qFQiP4vmcswfRRDSHwI5RVkj5kN9ucf7VW9HPMnxnzB1InDcVhlBwQ2aJy+HsdA==
+"@nrwl/cypress@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nrwl%2fcypress/-/cypress-1784.42.1-beta.0.tgz#51f611f38fe1d546f32a5889a1681428a1ba23f1"
+  integrity sha512-87PSCvzgd9jjuUmNOCDVcEHcbFDR50BQLJWRswsWd+AAg8cCCLCWhyQ2krulpD8Skie/YWVWaeCFYvy49y57/g==
   dependencies:
-    "@nx/cypress" "1784.2.1-beta.0"
+    "@nx/cypress" "1784.42.1-beta.0"
 
-"@nrwl/devkit@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nrwl%2fdevkit/-/devkit-1784.2.1-beta.0.tgz#68b5bf439ed985a0c2f2d296ea19b85dd7a7b5b3"
-  integrity sha512-VAvLm/vigZCqIKNZtfoqyLgic3kTF7+GapvYl9oRLvM4PvdftSooTYMzeLa0rq+FIHGfuQP/6Hqtra8iK1xIOA==
+"@nrwl/devkit@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nrwl%2fdevkit/-/devkit-1784.42.1-beta.0.tgz#4c6ab30be74fbbe51059fc7ed997d0b96d40a782"
+  integrity sha512-h8vOW48sB1QkmowtSvl9v5/ZwMUKCdOPdhP20o3VBtJwBCHpQSmfJ4c2MVSskRrivDEVcqXxstNX6jSQcrQkYQ==
   dependencies:
-    "@nx/devkit" "1784.2.1-beta.0"
+    "@nx/devkit" "1784.42.1-beta.0"
 
-"@nrwl/eslint-plugin-nx@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nrwl%2feslint-plugin-nx/-/eslint-plugin-nx-1784.2.1-beta.0.tgz#734df055029268e0027986338fc2ba8f716d2310"
-  integrity sha512-7uD02EemRT4YyMTfKaNLqbyO1GpOEseHFxa7/ohGv9Mabj6K6thNtBFAQE5aVWVWOZ81aj3JVllOuQTUItz0sQ==
+"@nrwl/eslint-plugin-nx@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nrwl%2feslint-plugin-nx/-/eslint-plugin-nx-1784.42.1-beta.0.tgz#c2026b96e2f09820dab7576b93d60396087e4fa9"
+  integrity sha512-1Pvh4KdHzWPLK7FBlJYQnPmyLhhTk+cSBgkobr5sedqF4Q5BOnDmRpU7RJaJbVWkunAkNQIgY0SDMOgELu2Isw==
   dependencies:
-    "@nx/eslint-plugin" "1784.2.1-beta.0"
+    "@nx/eslint-plugin" "1784.42.1-beta.0"
 
-"@nrwl/js@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nrwl%2fjs/-/js-1784.2.1-beta.0.tgz#5202ba36de0e47180397f12138ce6f0e5c755e8d"
-  integrity sha512-GP1ckqTowbapd49C1TTd5Yk4B0u06XiKkbAM867WrvfWa8xszMbPRTTQG06VZcxODBam6JsbizdFTgBMQwf75A==
+"@nrwl/js@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nrwl%2fjs/-/js-1784.42.1-beta.0.tgz#cb803cd449daf87905ed92bf5440f5083ebca79e"
+  integrity sha512-XIa9P120iJ2O3IDcWMsTAuM587wmrYR/dLhvJBz8fprEqWMDqBkFsgnb67CbO/7dZOR5vm/obdTC4orRH4j3Kw==
   dependencies:
-    "@nx/js" "1784.2.1-beta.0"
+    "@nx/js" "1784.42.1-beta.0"
 
-"@nrwl/tao@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nrwl%2ftao/-/tao-1784.2.1-beta.0.tgz#d73f53e0c8aaac1210f312b2bbc475f031d1171e"
-  integrity sha512-JHXTgep+II/AReZX0RdJT+/edRb7yQbc1k+9yB7qAHZGIbx0jQE+Ji/OYDfD4CqGBgn0XPSuRpT67CfVS+2lzg==
+"@nrwl/tao@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nrwl%2ftao/-/tao-1784.42.1-beta.0.tgz#9ec53dd30766059269fa7f6593d21b5b7de77681"
+  integrity sha512-upHQyVxYYJcQWlOcJvYbsTknmlZ97f8AwQMLF59h56eNOEaQacpvP2lhrlLXvIlbO4aW9ri578VgkPTbdIU8CQ==
   dependencies:
-    nx "1784.2.1-beta.0"
+    nx "1784.42.1-beta.0"
     tslib "^2.3.0"
 
-"@nrwl/vite@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nrwl%2fvite/-/vite-1784.2.1-beta.0.tgz#8a32f463a8bd04d60a90001e850e3748fc32e0a4"
-  integrity sha512-4rEGTgBGopZ60Kcn0mOQWqCg8Su3w7sCAWEyKDeJm5tiTD7x/+isgff6ypbIpMJz5bCkLVbKT29itre6niwu4Q==
+"@nrwl/vite@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nrwl%2fvite/-/vite-1784.42.1-beta.0.tgz#56cb00311387c406accbee32118010cd13e6e548"
+  integrity sha512-vRkA5Cl2WlgMP9JQEUu9u6x9akOEznw5e1SqLNcIaHUa7PndpfAkuJqAGQXzizeNpdec1j6yCwnk3jURWEkP3A==
   dependencies:
-    "@nx/vite" "1784.2.1-beta.0"
+    "@nx/vite" "1784.42.1-beta.0"
 
-"@nrwl/web@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nrwl%2fweb/-/web-1784.2.1-beta.0.tgz#2aac3a3441931acadc8e0fcc31e1a0c6a987c9b3"
-  integrity sha512-fvoY3RzeL4UhtjKpz7UDQWpT3NAtzpU3SEzQGQxPTpKDM86o0fx5ydtIGYBUtq34aVrubrpJaPyiFHNp3z1ntw==
+"@nrwl/web@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nrwl%2fweb/-/web-1784.42.1-beta.0.tgz#1019e6a2f24c28c361c1ccb0ff392d821b694814"
+  integrity sha512-N7myPH+h+peqrzT82qMIXZuDLzZt0kv2yEpEmNBoeqUlnvrGjckVs6mH7elLNyhjgcyEnd0CzxrpIH7Ay9JHSA==
   dependencies:
-    "@nx/web" "1784.2.1-beta.0"
+    "@nx/web" "1784.42.1-beta.0"
 
-"@nrwl/workspace@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nrwl%2fworkspace/-/workspace-1784.2.1-beta.0.tgz#2eca227ea9cd9db7b5f264778024893bf4cc0d81"
-  integrity sha512-ve6lmwEeonFN8zWwBWbG6yMx5lsKqQ435/cjVSd+yEtyoRkxtbTBieCOO8SpQYReWW0E9sHfObBJrd4Pk7YCYA==
+"@nrwl/workspace@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nrwl%2fworkspace/-/workspace-1784.42.1-beta.0.tgz#985f1ac1104dd66acde58b525fb0d2c2f9b6878f"
+  integrity sha512-mwH1mxhYsJJEZovAEOaCTD1xSGILYvKPjmv2j4Q3B8ybBv2ed2BIoXLq/5gtu3E0B4/CzfCMGeg5wkV/ltzCvQ==
   dependencies:
-    "@nx/workspace" "1784.2.1-beta.0"
+    "@nx/workspace" "1784.42.1-beta.0"
 
 "@nuxt/devalue@^2.0.2":
   version "2.0.2"
@@ -1881,26 +1881,26 @@
     vite-plugin-checker "^0.6.2"
     vue-bundle-renderer "^2.0.0"
 
-"@nx/cypress@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nx%2fcypress/-/cypress-1784.2.1-beta.0.tgz#dbacee4dabc6f8a7b27bf24f7a6c9b9cf4a6a74b"
-  integrity sha512-fpIer0hWwWbLVD6BniSVMJRCDJQH6OCM3wr/psN4Y8IlhZP+ITlCzWAW6sAu7SvnJpO1aaMwF67JjVuvYwEq9w==
+"@nx/cypress@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nx%2fcypress/-/cypress-1784.42.1-beta.0.tgz#3a9a8ef55680ebb8a03e785eadfa8e03a185ea2a"
+  integrity sha512-rpUwLxRBEz7caU89SuaITn+uc8w/MKiveu36bHg5eNIWVJYXScdYBMOlAfn/f/gbpcrqZ5PTw9a1hs+FNqZkVw==
   dependencies:
-    "@nrwl/cypress" "1784.2.1-beta.0"
-    "@nx/devkit" "1784.2.1-beta.0"
-    "@nx/eslint" "1784.2.1-beta.0"
-    "@nx/js" "1784.2.1-beta.0"
+    "@nrwl/cypress" "1784.42.1-beta.0"
+    "@nx/devkit" "1784.42.1-beta.0"
+    "@nx/eslint" "1784.42.1-beta.0"
+    "@nx/js" "1784.42.1-beta.0"
     "@phenomnomnominal/tsquery" "~5.0.1"
     detect-port "^1.5.1"
     semver "7.5.3"
     tslib "^2.3.0"
 
-"@nx/devkit@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nx%2fdevkit/-/devkit-1784.2.1-beta.0.tgz#232ced5de75153d7f1bc861d498a9182fb8d87a4"
-  integrity sha512-dR95lGVkEW7IKLfnBe7LWGp84mWfPsNeiCP8wpabO197TEHHLsQPK0sT/XneiCp9buU57Uk+UQuNA7fuK13UXQ==
+"@nx/devkit@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nx%2fdevkit/-/devkit-1784.42.1-beta.0.tgz#f4f92308c8e7be9eee0c782915e30c8a5efc13b0"
+  integrity sha512-WZuro0dplL16j+uAskTIfOMjTfXx9fvqyz8Bx3dt1pEcXTFkYU3ifYGQDQnuU39MQuQJvBqV4urDxSQJ6oE5Bw==
   dependencies:
-    "@nrwl/devkit" "1784.2.1-beta.0"
+    "@nrwl/devkit" "1784.42.1-beta.0"
     ejs "^3.1.7"
     enquirer "~2.3.6"
     ignore "^5.0.4"
@@ -1908,14 +1908,14 @@
     tmp "~0.2.1"
     tslib "^2.3.0"
 
-"@nx/eslint-plugin@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nx%2feslint-plugin/-/eslint-plugin-1784.2.1-beta.0.tgz#e1a24678dcb2ecdae1fe17f984c2e61ce98c796e"
-  integrity sha512-EQ5oLzyECUbSwUdD7J09QT12Iwa7r8jMaWaV33Cns8hv0D68yrjzG0dd2GEOLagpiZ5fdfRbaNDtm7R0SzM/tw==
+"@nx/eslint-plugin@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nx%2feslint-plugin/-/eslint-plugin-1784.42.1-beta.0.tgz#912b1e091cf184ec6edb8ee510c39ee3bfc4f5cc"
+  integrity sha512-BM2Gs1/84RP9c557iwQchd/Gf/xpGpl1vx3P+CQM8DbGSbY3wShBfMRo4Ujz1/NnGWJFcBubszttaLepyPyFsw==
   dependencies:
-    "@nrwl/eslint-plugin-nx" "1784.2.1-beta.0"
-    "@nx/devkit" "1784.2.1-beta.0"
-    "@nx/js" "1784.2.1-beta.0"
+    "@nrwl/eslint-plugin-nx" "1784.42.1-beta.0"
+    "@nx/devkit" "1784.42.1-beta.0"
+    "@nx/js" "1784.42.1-beta.0"
     "@typescript-eslint/type-utils" "^6.9.1"
     "@typescript-eslint/utils" "^6.9.1"
     chalk "^4.1.0"
@@ -1924,21 +1924,21 @@
     semver "7.5.3"
     tslib "^2.3.0"
 
-"@nx/eslint@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nx%2feslint/-/eslint-1784.2.1-beta.0.tgz#a1f47bddcefbcb6aa7de811a625f8c2c6a8ad5b6"
-  integrity sha512-4Oe25DTAourN41annhdlJbMF1/VMEZyhR3+sMweNg3j/HD49nxB1LgDUdBDe/ePv/tuXZdOCd1VknjRNl5jAMQ==
+"@nx/eslint@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nx%2feslint/-/eslint-1784.42.1-beta.0.tgz#4ce36022e61004dd356844bcd5d7c6b3aa45d590"
+  integrity sha512-ZMUn1OgppQN7/UfGEWC91pga1tp3s1oEd51TdI7SIWjdEJJMPqJOb4YGgORpnJ58u91IbtoXlP4uQsmFMMmjTg==
   dependencies:
-    "@nx/devkit" "1784.2.1-beta.0"
-    "@nx/js" "1784.2.1-beta.0"
-    "@nx/linter" "1784.2.1-beta.0"
+    "@nx/devkit" "1784.42.1-beta.0"
+    "@nx/js" "1784.42.1-beta.0"
+    "@nx/linter" "1784.42.1-beta.0"
     tslib "^2.3.0"
     typescript "~5.2.2"
 
-"@nx/js@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nx%2fjs/-/js-1784.2.1-beta.0.tgz#e11c81024a785424f8c46da7759d01aa9a8b7964"
-  integrity sha512-8BDObPJxJ7fzIiLhOHxJ2k+HFIxRmrq3UVYQ4+TUxXmIgavNobK7yRtK32pV8lXRZNeJShQtP6m5tKG6tOvWzg==
+"@nx/js@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nx%2fjs/-/js-1784.42.1-beta.0.tgz#efb393417a776726c8613c7c5b0c29ae4a9cb71b"
+  integrity sha512-K5nGnduhicF8J/XuvSgEWW19R+lhLroFHjBCAD1HNYjYL6fCesLB1q58e9YCFSIwV1EP5afes91nuVzrZZMVQQ==
   dependencies:
     "@babel/core" "^7.22.9"
     "@babel/plugin-proposal-decorators" "^7.22.7"
@@ -1947,9 +1947,9 @@
     "@babel/preset-env" "^7.22.9"
     "@babel/preset-typescript" "^7.22.5"
     "@babel/runtime" "^7.22.6"
-    "@nrwl/js" "1784.2.1-beta.0"
-    "@nx/devkit" "1784.2.1-beta.0"
-    "@nx/workspace" "1784.2.1-beta.0"
+    "@nrwl/js" "1784.42.1-beta.0"
+    "@nx/devkit" "1784.42.1-beta.0"
+    "@nx/workspace" "1784.42.1-beta.0"
     "@phenomnomnominal/tsquery" "~5.0.1"
     babel-plugin-const-enum "^1.0.1"
     babel-plugin-macros "^2.8.0"
@@ -1971,125 +1971,125 @@
     tsconfig-paths "^4.1.2"
     tslib "^2.3.0"
 
-"@nx/linter@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nx%2flinter/-/linter-1784.2.1-beta.0.tgz#85a88c2e088feab93e7ba661cfe1cc6d965716d4"
-  integrity sha512-Sxj/QV6x2UprY4KiM1jK6GJpMjpeHOgv4UFEaL0itmNvwaonjRELTGpU1k42HMkYNYwOfCOZQd/6ewlaO6E6lw==
+"@nx/linter@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nx%2flinter/-/linter-1784.42.1-beta.0.tgz#01b8982bb7715a1b5d6292b78fa930b6a17817b6"
+  integrity sha512-jiCypTEekrmadRcUjNi4BXSb9vrgwWm2+RSuk9abEV/DXFnWswXjN/PvKqG0oeyOOaSzdO4UzwfO7QnumztCwA==
   dependencies:
-    "@nx/eslint" "1784.2.1-beta.0"
+    "@nx/eslint" "1784.42.1-beta.0"
 
-"@nx/nuxt@^1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nx%2fnuxt/-/nuxt-1784.2.1-beta.0.tgz#57118c6dc315c54f0603344f14d283ff6a323368"
-  integrity sha512-P9x6CbuD3N45MWd3NTbqPUOgr9aS29lWx4R71t6OgroJF71S05QahNRsKfeRphumTM7b2X+b3j7LAim7xaKwBg==
+"@nx/nuxt@^1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nx%2fnuxt/-/nuxt-1784.42.1-beta.0.tgz#ea780f01cb42d3bb827497acc76324b1f9de2d01"
+  integrity sha512-8LuuUnHqrlH2V/XY0JLQeNiSrEDyaLZeJ6uG4AQFXQ4kK33a2ajv24AsobiIKxNBAMu+vnFL2kS15M+U5zmPTg==
   dependencies:
     "@nuxt/kit" "^3.8.1"
-    "@nx/devkit" "1784.2.1-beta.0"
-    "@nx/eslint" "1784.2.1-beta.0"
-    "@nx/js" "1784.2.1-beta.0"
-    "@nx/vue" "1784.2.1-beta.0"
+    "@nx/devkit" "1784.42.1-beta.0"
+    "@nx/eslint" "1784.42.1-beta.0"
+    "@nx/js" "1784.42.1-beta.0"
+    "@nx/vue" "1784.42.1-beta.0"
     nuxi "^3.10.0"
     tslib "^2.3.0"
 
-"@nx/nx-darwin-arm64@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nx%2fnx-darwin-arm64/-/nx-darwin-arm64-1784.2.1-beta.0.tgz#3992a3110f3355e0c2ea7fa086307ded57db9b7a"
-  integrity sha512-H3s0GqKnW9ybKzxwx1ZiUm93qSEsWUHLdEqFeipY5k8dCpp3muTldI48vrenaL/bIY7MH0FTZ8arDXugUGvnJg==
+"@nx/nx-darwin-arm64@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nx%2fnx-darwin-arm64/-/nx-darwin-arm64-1784.42.1-beta.0.tgz#76e16f562289ab466dfac0f0a2fef7e2b2b413bd"
+  integrity sha512-eWvHDChsMBmCz3uuchSeuGecLvFe915mCc9KWfRShickP+3TrEbz7NqRLNtqNcxoeReinCya8U5Ssuo56VVMgg==
 
-"@nx/nx-darwin-x64@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nx%2fnx-darwin-x64/-/nx-darwin-x64-1784.2.1-beta.0.tgz#177599ff4b70b6d9ecb8c9246f8d681e5d6254fe"
-  integrity sha512-quT9+NrSGwFOF20LWhsWtKB2np1wq/v2pkjD9R2Rq3o9EgR7tQOwiQICLsKdhiuUN54YWXa7FIytbt0W8d5gDQ==
+"@nx/nx-darwin-x64@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nx%2fnx-darwin-x64/-/nx-darwin-x64-1784.42.1-beta.0.tgz#ab1705d5354f0457493e70efa1a4c07c7f8a22f8"
+  integrity sha512-MbXUYSvOBR0usTx92wgxfgT1pBEhp6l7NrBfMyEE5qxpoRgfrzaCBCuhGb2nzzN2ko7oszct64s1NBM4BreGcw==
 
-"@nx/nx-freebsd-x64@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nx%2fnx-freebsd-x64/-/nx-freebsd-x64-1784.2.1-beta.0.tgz#eaddd35246f4373b182137e2a00237b79fc04198"
-  integrity sha512-Yv7bfa2dcnYeaP2qDyL8o3LRRkKL3ieHd9cHp38T+wZWYppigtMALnIhRe7HeGvnZDUX9ym9x4Qe7MOSxB0pmg==
+"@nx/nx-freebsd-x64@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nx%2fnx-freebsd-x64/-/nx-freebsd-x64-1784.42.1-beta.0.tgz#35f757182678cccbe1d595305fc99fadb74be06c"
+  integrity sha512-tciPFCi6tJtitjeE9RFjCSLVv8RqIJtVg5RdPSDxrNYCoX4wgb0FfqBFlyDHSrLVtgO0J4Fl5D0Zmh7qLeIB8Q==
 
-"@nx/nx-linux-arm-gnueabihf@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nx%2fnx-linux-arm-gnueabihf/-/nx-linux-arm-gnueabihf-1784.2.1-beta.0.tgz#be3327ddb0fb9db8e915b5bfa68e42d445718e8e"
-  integrity sha512-xjqd4no69lC2a+kQMlGgG3bE5HQyhLftFioLu2BKLbbxr42HoUuMjKbqJlG0VX1JIobUk/4QmmSI5px8AmzvhA==
+"@nx/nx-linux-arm-gnueabihf@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nx%2fnx-linux-arm-gnueabihf/-/nx-linux-arm-gnueabihf-1784.42.1-beta.0.tgz#9956c3ca31314c412612dfe161ddf039bcd354e8"
+  integrity sha512-HwaRHdpFmrd9aqfnVAy6gT9XIejDSHGiVPfsp8yUeap7IocJNzA/KB3r66+rueLT+iZ6AfF8lkmOagY9AezA9w==
 
-"@nx/nx-linux-arm64-gnu@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nx%2fnx-linux-arm64-gnu/-/nx-linux-arm64-gnu-1784.2.1-beta.0.tgz#55a8a366646a4cbe4dfe6fc5bc6fbddc490404e2"
-  integrity sha512-HaQCnN6V9swAUadt6DQpZjAqCs18XHv+2He+PRvHFvDi3B5uGraUhyHYlTZg9taSHB7E1Cl4SOMp/Z8jp51hYA==
+"@nx/nx-linux-arm64-gnu@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nx%2fnx-linux-arm64-gnu/-/nx-linux-arm64-gnu-1784.42.1-beta.0.tgz#023b1d350406741f175f23fa96986e4494f200d0"
+  integrity sha512-9N1RFdfZ/VI7kKuRV9GycZynRGKmA6SGO9/WZaNN7lYcIBoGtVpIZxGrVsoXMrY0FcX08+RedfUZFJEEFmr1+w==
 
-"@nx/nx-linux-arm64-musl@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nx%2fnx-linux-arm64-musl/-/nx-linux-arm64-musl-1784.2.1-beta.0.tgz#4030b499513e46d727e8acd179b8567a69d8594f"
-  integrity sha512-h7anrrdhs6hI0+ILxchi1AVWyAyShcjM8jmbTcR5e9XJm4FprZmRX2RkQVimp4ISuIp8pKpj0eiC0nwHvZ04sQ==
+"@nx/nx-linux-arm64-musl@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nx%2fnx-linux-arm64-musl/-/nx-linux-arm64-musl-1784.42.1-beta.0.tgz#41836f1766724fe028d6cd64a7ef26ad413ef979"
+  integrity sha512-mbUCZa4vwg5aFRPUb5T/WCm0AYzWbz+toceXnvOyLF6wn8Xr/puePdNK9SKBO0nqER5zT78qCI1aEiMq6P653Q==
 
-"@nx/nx-linux-x64-gnu@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nx%2fnx-linux-x64-gnu/-/nx-linux-x64-gnu-1784.2.1-beta.0.tgz#66979c0f15a49d33bc437c3d5dacde8b4fac45c7"
-  integrity sha512-PWTsV56GVJHt+IbYjH8Enc+6szAew1/Hai5lzHN+GEg4Nsfodsii5kB/NYciiWypHaPGwLNPJUfSYbGj/oWiiQ==
+"@nx/nx-linux-x64-gnu@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nx%2fnx-linux-x64-gnu/-/nx-linux-x64-gnu-1784.42.1-beta.0.tgz#cb410f388049f0ecfd3c2fbbe8b29cfae9260e09"
+  integrity sha512-tIjxMOYrRw+YODJfb2Vzcdu7zdC9blCEpHKTLd25EOw/XhbXmfzlxrH91qKrTzxRGAwQwZnGwZjup3B+ZfU/AQ==
 
-"@nx/nx-linux-x64-musl@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nx%2fnx-linux-x64-musl/-/nx-linux-x64-musl-1784.2.1-beta.0.tgz#89c033bd619777cad7ca8ce02e23444ebfa95864"
-  integrity sha512-ma5BbkdwCGkoclYLLs8Z3MNuJLm1uXisKiChnoeV9cmUhSSdnXcjvy7Ypn3W5FCviGWZahv+PMFFUq0SEJxyeA==
+"@nx/nx-linux-x64-musl@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nx%2fnx-linux-x64-musl/-/nx-linux-x64-musl-1784.42.1-beta.0.tgz#e4346e0ff64920d0f352228cce2952b209dc29b9"
+  integrity sha512-BXI2tbfqcQRcU3CFp1amRW6U6QCQ4QSkc3hK4oUZN9vyqeFiRqO+d4rSDECSuFIFXxcLaszNLresiz2vd2mWXw==
 
-"@nx/nx-win32-arm64-msvc@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nx%2fnx-win32-arm64-msvc/-/nx-win32-arm64-msvc-1784.2.1-beta.0.tgz#90383aa6971e744e8d8c05824492627b62fe07b5"
-  integrity sha512-gsk4sC7l67bxKA7X2l0zZNP70Yyog7zLihlURqJm4thEFdjj/ak6XFW4g3BMg6A2zSMiLNksRia+6Gx5TW3hNQ==
+"@nx/nx-win32-arm64-msvc@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nx%2fnx-win32-arm64-msvc/-/nx-win32-arm64-msvc-1784.42.1-beta.0.tgz#d87122a941f9c99df83c0cb8ad72d41c9a69522c"
+  integrity sha512-VR9UdbD496P6Esln3WpILcgoOHTOqbZCWEPSmOjZ5mkODNmOiAmU+UScnEB/aRH6QNifqczzIEfT5DR9M5craQ==
 
-"@nx/nx-win32-x64-msvc@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nx%2fnx-win32-x64-msvc/-/nx-win32-x64-msvc-1784.2.1-beta.0.tgz#b7803df0d4fc99d38cd87336a245586d1c6833a2"
-  integrity sha512-c/VygG45RDxBMvRv0tzh6jBkif1m+DHqEHLp51Q1vdmdP75DAgQDuWJxpwHFHjuAnpMvjhE4qzBCzbkkMwQ/ZQ==
+"@nx/nx-win32-x64-msvc@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nx%2fnx-win32-x64-msvc/-/nx-win32-x64-msvc-1784.42.1-beta.0.tgz#811b3822e0a2afdf01b09c5f02db72347370ab33"
+  integrity sha512-WWN4OGVB6pTZP4CS5qzRuYuvwBJb9BO2aVnSI/JJhYqJx8tmKULf/CoTQ6cidr+AAp2L0TJolcMSKR4SfOdxAg==
 
-"@nx/vite@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nx%2fvite/-/vite-1784.2.1-beta.0.tgz#0c4932cece3eddefa7e3e5696cfb51e399e0c5b9"
-  integrity sha512-ChfMxSQUxmKmNskYBK6dURkNBEcZb384b9YByhw/FC+2cMKogjRHh+qS+65gcW6zUZD2UP7adiGDR6RcbBDRnA==
+"@nx/vite@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nx%2fvite/-/vite-1784.42.1-beta.0.tgz#1c852e0ce42fd822188be26bfae8a511c6991a99"
+  integrity sha512-ynFXAQQcxI+MOZ8Pwd1TzsNY3xTSQ6O8GZegJGgHWN7hVM9Y+UtXz77gwVQ7BuA4Lp7MRdQgfwJmG5NR7eh2QA==
   dependencies:
-    "@nrwl/vite" "1784.2.1-beta.0"
-    "@nx/devkit" "1784.2.1-beta.0"
-    "@nx/js" "1784.2.1-beta.0"
+    "@nrwl/vite" "1784.42.1-beta.0"
+    "@nx/devkit" "1784.42.1-beta.0"
+    "@nx/js" "1784.42.1-beta.0"
     "@phenomnomnominal/tsquery" "~5.0.1"
     "@swc/helpers" "~0.5.0"
     enquirer "~2.3.6"
     tsconfig-paths "^4.1.2"
 
-"@nx/vue@1784.2.1-beta.0", "@nx/vue@^1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nx%2fvue/-/vue-1784.2.1-beta.0.tgz#d7560afbd9f0d6d1d3eec3b306ac8601cbc32705"
-  integrity sha512-gAZDgchZ89Z7Ccm2KGYMheYPNS61yMIWbVVUqJ6Psv2N4R6jLZRn2fAerQZwV6/whIXhpyD6q8StXbY7ol0SZA==
+"@nx/vue@1784.42.1-beta.0", "@nx/vue@^1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nx%2fvue/-/vue-1784.42.1-beta.0.tgz#aaf93c1adcd629c24ac0b605a32d6f2a237b7675"
+  integrity sha512-KdbKbC+pOoXZ97jBsfoLuuhk7hd71ltLX21GYmVnDB/5QkrYwHKHAO7MBFLhe8gitS07oAmjbQnGA1ndGTEZAA==
   dependencies:
-    "@nx/devkit" "1784.2.1-beta.0"
-    "@nx/eslint" "1784.2.1-beta.0"
-    "@nx/js" "1784.2.1-beta.0"
-    "@nx/vite" "1784.2.1-beta.0"
-    "@nx/web" "1784.2.1-beta.0"
+    "@nx/devkit" "1784.42.1-beta.0"
+    "@nx/eslint" "1784.42.1-beta.0"
+    "@nx/js" "1784.42.1-beta.0"
+    "@nx/vite" "1784.42.1-beta.0"
+    "@nx/web" "1784.42.1-beta.0"
     minimatch "3.0.5"
     tslib "^2.3.0"
 
-"@nx/web@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nx%2fweb/-/web-1784.2.1-beta.0.tgz#6c536e332c5c8103e5462932fb66ba925bb5f7e0"
-  integrity sha512-ai6rObjDfx5BEOmiC8WnAzrRHX1LJt7/Chse5yAhpGDERuQPqBBoE7b1I5ZwDM9S31d+mY+lyE9lPxKa/dlyEA==
+"@nx/web@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nx%2fweb/-/web-1784.42.1-beta.0.tgz#92dc88eb86086589b65bd9f5ada5bcf56f2931ef"
+  integrity sha512-/jLdPozhvljiWX4hpGg1jODcaRGQSGD6jRU2yuZ420GzxY44dtlvMfEKRbK0lS2/Sb/ZmLyQSzM6juloKjE/Mw==
   dependencies:
-    "@nrwl/web" "1784.2.1-beta.0"
-    "@nx/devkit" "1784.2.1-beta.0"
-    "@nx/js" "1784.2.1-beta.0"
+    "@nrwl/web" "1784.42.1-beta.0"
+    "@nx/devkit" "1784.42.1-beta.0"
+    "@nx/js" "1784.42.1-beta.0"
     chalk "^4.1.0"
     detect-port "^1.5.1"
     http-server "^14.1.0"
     tslib "^2.3.0"
 
-"@nx/workspace@1784.2.1-beta.0":
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/@nx%2fworkspace/-/workspace-1784.2.1-beta.0.tgz#a09a27392a49b49b6efea51b0b95a9d00895164b"
-  integrity sha512-p8MfI6NfHvhDQZOtAuU2ghq36Ut5RK0C1lV4xf+rA92QEdpaE45lSa/de2HcHew8tZyz9NJUIeee6tH08kX6hA==
+"@nx/workspace@1784.42.1-beta.0":
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/@nx%2fworkspace/-/workspace-1784.42.1-beta.0.tgz#c3d3ed997853d663c136f296069c14bd271159d4"
+  integrity sha512-Q2BzSVkQXk0GmyhWweLQaZIul0ucYi2/l1JLTIPqewweI81JFUuVC/0C6st0f6snhpDrTcmS2qX2pUIuaG/xpQ==
   dependencies:
-    "@nrwl/workspace" "1784.2.1-beta.0"
-    "@nx/devkit" "1784.2.1-beta.0"
+    "@nrwl/workspace" "1784.42.1-beta.0"
+    "@nx/devkit" "1784.42.1-beta.0"
     chalk "^4.1.0"
     enquirer "~2.3.6"
-    nx "1784.2.1-beta.0"
+    nx "1784.42.1-beta.0"
     tslib "^2.3.0"
     yargs-parser "21.1.1"
 
@@ -7041,12 +7041,12 @@ nwsapi@^2.2.4:
   resolved "http://localhost:4873/nwsapi/-/nwsapi-2.2.7.tgz#738e0707d3128cb750dddcfe90e4610482df0f30"
   integrity sha512-ub5E4+FBPKwAZx0UwIQOjYWGHTEq5sPqHQNRN8Z9e4A7u3Tj1weLJsL59yH9vmvqEtBHaOmT6cYQKIZOxp35FQ==
 
-nx@1784.2.1-beta.0:
-  version "1784.2.1-beta.0"
-  resolved "http://localhost:4873/nx/-/nx-1784.2.1-beta.0.tgz#859df07a8dc4aa099648335ee8b3249cd54b67d1"
-  integrity sha512-l3h7ZaNm70c72DdhocK8UoXNtOwllb2ivJMC5d3LL9BOD+z/UU8H55JUq5BLGbDOdGc89lHwCHpuvtW/wqnq1w==
+nx@1784.42.1-beta.0:
+  version "1784.42.1-beta.0"
+  resolved "http://localhost:4873/nx/-/nx-1784.42.1-beta.0.tgz#e9852da094ceb18f77c6bdc0ac1ab03da60d5266"
+  integrity sha512-YZO7yK1mLASCEBSb5lqTnFiLX55UlSlSqi/d8ORrXhOJK9CAAXQ9C2disAZADRghgx7o6gQP8+3fvigXxQdMgA==
   dependencies:
-    "@nrwl/tao" "1784.2.1-beta.0"
+    "@nrwl/tao" "1784.42.1-beta.0"
     "@yarnpkg/lockfile" "^1.1.0"
     "@yarnpkg/parsers" "3.0.0-rc.46"
     "@zkochan/js-yaml" "0.0.6"
@@ -7081,16 +7081,16 @@ nx@1784.2.1-beta.0:
     yargs "^17.6.2"
     yargs-parser "21.1.1"
   optionalDependencies:
-    "@nx/nx-darwin-arm64" "1784.2.1-beta.0"
-    "@nx/nx-darwin-x64" "1784.2.1-beta.0"
-    "@nx/nx-freebsd-x64" "1784.2.1-beta.0"
-    "@nx/nx-linux-arm-gnueabihf" "1784.2.1-beta.0"
-    "@nx/nx-linux-arm64-gnu" "1784.2.1-beta.0"
-    "@nx/nx-linux-arm64-musl" "1784.2.1-beta.0"
-    "@nx/nx-linux-x64-gnu" "1784.2.1-beta.0"
-    "@nx/nx-linux-x64-musl" "1784.2.1-beta.0"
-    "@nx/nx-win32-arm64-msvc" "1784.2.1-beta.0"
-    "@nx/nx-win32-x64-msvc" "1784.2.1-beta.0"
+    "@nx/nx-darwin-arm64" "1784.42.1-beta.0"
+    "@nx/nx-darwin-x64" "1784.42.1-beta.0"
+    "@nx/nx-freebsd-x64" "1784.42.1-beta.0"
+    "@nx/nx-linux-arm-gnueabihf" "1784.42.1-beta.0"
+    "@nx/nx-linux-arm64-gnu" "1784.42.1-beta.0"
+    "@nx/nx-linux-arm64-musl" "1784.42.1-beta.0"
+    "@nx/nx-linux-x64-gnu" "1784.42.1-beta.0"
+    "@nx/nx-linux-x64-musl" "1784.42.1-beta.0"
+    "@nx/nx-win32-arm64-msvc" "1784.42.1-beta.0"
+    "@nx/nx-win32-x64-msvc" "1784.42.1-beta.0"
 
 nypm@^0.3.3:
   version "0.3.3"
