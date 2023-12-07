@@ -1,13 +1,13 @@
 {
-  "root": "vapp1",
+  "root": "vapp3",
   "targets": {
     "lint": {
       "cache": true,
-      "options": { "cwd": "vapp1", "command": "eslint ." },
+      "options": { "cwd": "vapp3", "command": "eslint ." },
       "inputs": [
         "default",
         "{workspaceRoot}/.eslintrc.json",
-        "{workspaceRoot}/vapp1/.eslintrc.json",
+        "{workspaceRoot}/vapp3/.eslintrc.json",
         "{workspaceRoot}/tools/eslint-rules/**/*",
         { "externalDependencies": ["eslint"] }
       ],
@@ -22,30 +22,30 @@
         "^production",
         { "externalDependencies": ["vite"] }
       ],
-      "options": { "cwd": "vapp1", "command": "vite build" },
-      "outputs": ["../dist/vapp1"],
+      "options": { "cwd": "vapp3", "command": "vite build" },
+      "outputs": ["../dist/vapp3"],
       "executor": "nx:run-commands",
       "configurations": {}
     },
     "serve": {
-      "options": { "cwd": "vapp1", "command": "vite serve" },
+      "options": { "cwd": "vapp3", "command": "vite serve" },
       "executor": "nx:run-commands",
       "configurations": {}
     },
     "preview": {
-      "options": { "cwd": "vapp1", "command": "vite preview" },
+      "options": { "cwd": "vapp3", "command": "vite preview" },
       "executor": "nx:run-commands",
       "configurations": {}
     },
     "test": {
-      "options": { "cwd": "vapp1", "command": "vitest run" },
+      "options": { "cwd": "vapp3", "command": "vitest run" },
       "cache": true,
       "inputs": [
         "default",
         "^production",
         { "externalDependencies": ["vitest"] }
       ],
-      "outputs": ["../coverage/vapp1"],
+      "outputs": ["../coverage/vapp3"],
       "executor": "nx:run-commands",
       "configurations": {}
     },
@@ -55,10 +55,10 @@
       "configurations": {}
     }
   },
-  "name": "vapp1",
+  "name": "vapp3",
   "$schema": "../node_modules/nx/schemas/project-schema.json",
   "projectType": "application",
-  "sourceRoot": "vapp1/src",
+  "sourceRoot": "vapp3/src",
   "implicitDependencies": [],
   "tags": []
 }
